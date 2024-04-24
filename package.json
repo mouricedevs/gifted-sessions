@@ -1,0 +1,48 @@
+{
+  "name": "giftedmd-paringcode",
+  "version": "1.0.2",
+  "description": "Get session id for Gifted_Md whatsapp bot using pairing code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giftedtechnexus/web-qr.git"
+  },
+  "keywords": [
+    "baileysQr",
+    "MdLogin",
+    "Gifted-Md",
+    "whatsapp-bot",
+    "pairingCode",
+    "waPairingCode",
+    "adiwajshing/baileys",
+    "baileys-md-qr",
+    "multi-device-qr",
+    "md-qr",
+    "bot-qr",
+    "baileysParingCode",
+    "wabot"
+  ],
+  "author": "GiftedTech",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "latest",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "6.5.0",
+    "axios": "^1.5.1",
+    "child_process": "latest",
+    "crypto-js": "^4.1.1",
+    "fs-extra": "latest",
+    "libphonenumber-js": "^1.10.44",
+    "node-cache": "^5.1.2",
+    "nodejs-base64": "^2.0.0",
+    "open": "^9.1.0",
+    "pastebin-js": "^1.0.6",
+    "pino": "^8.1.0",
+    "prompt-sync": "^4.2.0",
+    "qrcode-terminal": "latest"
+  }
+}
