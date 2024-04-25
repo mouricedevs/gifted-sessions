@@ -1,6 +1,6 @@
 {
-  "name": "giftedmd-paringcode",
-  "version": "1.0.2",
+  "name": "gifted-session",
+  "version": "2.5.0",
   "description": "Get session id for Gifted_Md whatsapp bot using pairing code.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/giftedtechnexus/web-qr.git"
+    "url": "https://github.com/mouricedevs/gifted-md-qr.git"
   },
   "keywords": [
     "baileysQr",
