@@ -108,7 +108,7 @@ function _0x5b50() {
     _0x32b76a(183),
     "remoteJid",
     "SHOWAD",
-    "\n-------------------  SESSION CLOSED   -----------------------",
+    "\n-------------  SESSION CLOSED   -----------------",
   ];
   _0x5b50 = function () {
     return _0x2ed124;
@@ -289,7 +289,7 @@ function _0x14b7() {
     "getDate",
     "close",
     "2128152lnckvh",
-    "LOGGED IN 100% ",
+    "WHATSAPP LOGGED IN 100% ",
     "/assets/gifted.jpg",
     "\n\nEnter A Vaild Whatsapp Number: ",
     "Loggin In... [",
@@ -313,8 +313,8 @@ function _0x14b7() {
     "YOU ENTERED AN INVALID WHATSAPP NUMBER ",
     "loggedOut",
     "badSession",
-    "\n  ====================  SESSION ID  ===========================                   \n  SESSION-ID ==> ",
-    "*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*\n*Made With 💜*\n*By ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*\n___________________________\n╔════◇\n❒ *[ 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ]*\n╚═══════════════╝\n║ You've Completed the First Step\n║ to Deploy a Whatsapp Bot.\n╔═════◇\n║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••\n║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@giftedtechnexus\n║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/message/NHCZC5DSOEUXB1\n║❒ 𝐑𝐞𝐩𝐨: https://github.com/mouricedevs/Gifted-Md\n║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/IdRoSUSfLbA4nti8jqwese\n║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o\n║❒ *Github:* https://github.com/mouricedevs\n❒ *Developer:* Gifted Tech\n║ 💜💜💜\n╚═══════════════╝\n *©²⁰²⁴ ᴳᴵᶠᵀᴱᴰ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ* \n___________________________\nDon't Forget To Fork and Give a Star⭐ To My Repo\n",
+    "\n  =============  SESSION ID  ====================                   \n  YOUR-SESSION-ID ==> ",
+    "*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*\n___________________________\n╔════◇\n❒ *[ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ]*\n╚═══════════════╝\n║ You've Completed the First Step\n║ to Deploy a Whatsapp Bot.\n╔═════◇\n║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••\n❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@giftedtechnexus\n❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/message/NHCZC5DSOEUXB1\n❒ 𝐑𝐞𝐩𝐨: https://github.com/mouricedevs/Gifted-Md\n❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/IdRoSUSfLbA4nti8jqwese\n❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o\n❒ *Github:* https://github.com/mouricedevs\n❒ *Developer:* Gifted Tech\n║ 💜💜💜\n╚═══════════════╝\n *©²⁰²⁴ ᴳᴵᶠᵀᴱᴰ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ* \n___________________________\nDon't Forget To Fork and Give a Star⭐ To My Repo\n",
     "8CIfiUY",
     "EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL",
     "Multi device mismatch, please scan again",
@@ -532,12 +532,12 @@ async function start() {
             contextInfo: {
               externalAdReply: {
                 title: "GIFTED MD",
-                body: "A SIMPLE MULTIDEVICE WHATSAPP BOT",
+                body: "MULTIDEVICE WHATSAPP BOT",
                 renderLargerThumbnail: true,
-                thumbnail: _0x55e929,
+                thumbnail: "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
                 mediaType: 1,
-                mediaUrl: "/scan.mp3",
-                sourceUrl: _0x579dea(438),
+                mediaUrl: "scan.mp3",
+                sourceUrl: "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o",
               },
             },
           });
