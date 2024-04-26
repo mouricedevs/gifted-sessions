@@ -2,10 +2,10 @@
   "name": "gifted-sessions",
   "version": "2.5.0",
   "description": "Get session id for Gifted_Md whatsapp bot using pairing code.",
-  "main": "gifted.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node gifted.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
