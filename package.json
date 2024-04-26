@@ -1,5 +1,5 @@
 {
-  "name": "gifted-sessions",
+  "name": "gifted-pairing",
   "version": "2.5.0",
   "description": "Get session id for Gifted_Md whatsapp bot using pairing code.",
   "main": "index.js",
