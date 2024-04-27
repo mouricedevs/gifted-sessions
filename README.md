@@ -6,7 +6,8 @@
 
 > OR
  
-- Run on Termux using Below Commands one after the other:
+- Run on Termux/Linux/Pc/Terminal using Below Commands one after the other.
+  (Termux will take 1.35GB of your device storage for full set up so ensure you've got enough space):
 
 ```
 termux-setup-storage
