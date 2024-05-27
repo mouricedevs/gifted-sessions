@@ -62,11 +62,11 @@ npm install
 
 - Getting Pairing Code and Session ID:
 ```
-npm start
+node gifted.js
 ```
 > Or Simply:
 ```
-node gifted.js
+npm start
 ```
 
 - Thanks for Using This Tool
