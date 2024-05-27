@@ -69,6 +69,23 @@ node gifted.js
 npm start
 ```
 
+
+
+After completing the process and exiting Termux anytime you want to get another session ID just:
+
+`cd gifted-sessions`
+
+then:
+
+`node gifted.js`
+
+or simply:
+
+`npm start`
+
+
+*NB:*
+Works for All Secktor-Based/A-17 Based/ Whiskeysockets Bailey's Bots
 - Thanks for Using This Tool
 - You can customise it according to your needs but don't forget to give credits.
 
