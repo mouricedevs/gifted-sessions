@@ -2,7 +2,7 @@
 
 ### By Gifted Tech ###
 
-- Deploy To Replit.
+- Upload Files on Replit and Run.
 
 > OR
  
