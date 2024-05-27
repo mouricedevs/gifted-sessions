@@ -1,6 +1,7 @@
 # Gifted Session Generator
 
 ### By Gifted Tech ###
+- Here's Termux [`OUTPUT`](https://github.com/mouricedevs/gifted-sessions/blob/main/screenshots/output-demo.jpg)
 
 - Upload Files on Replit and Run.
 
