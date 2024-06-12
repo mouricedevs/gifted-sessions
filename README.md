@@ -8,6 +8,7 @@
 > OR
  
 - Run on Termux/Linux/Pc/Terminal using Below Commands one after the other.
+- First Download Termux Android App [`HERE`](https://f-droid.org/repo/com.termux_118.apk)
   (Termux will take 1.35GB of your device storage for full set up so ensure you've got enough space):
 
 ```
@@ -72,23 +73,33 @@ npm start
 
 
 
-After completing the process and exiting Termux anytime you want to get another session ID just:
+After completing the process and exiting Termux anytime you want to get another session ID just reuse below cmds:
 
-`cd gifted-sessions`
+```
+cd gifted-sessions
+```
 
 then:
 
-`node gifted.js`
+```
+node gifted.js
+```
 
 or simply:
 
-`npm start`
+```
+npm start
+```
 
 
 *NB:*
 Works for All Secktor-Based/A-17 Based/ Whiskeysockets Bailey's Bots
 - Thanks for Using This Tool
+- Join my [`WhatsApp Channel`](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Tech Updates
 - You can customise it according to your needs but don't forget to give credits.
 
 - MADE WITH 💛 BY GIFTED TECH
-- © 2024 All Rights Reserved!!!
+- © 2024 All Rights Reserved!
+
+
+- **[CONTACT OWNER](https://t.me/giftedmd)**
