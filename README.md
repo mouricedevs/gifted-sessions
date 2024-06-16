@@ -24,16 +24,16 @@ apt upgrade
 pkg update && pkg upgrade
 ```
 ```
-pkg install python
+pkg install python -y
 ```
 ```
-pkg install python2
+pkg install python2 -y
 ```
 ```
-pkg install bash
+pkg install bash -y
 ```
 ```
-pkg install libwebp
+pkg install libwebp -y
 ```
 ```
 pkg install git -y
