@@ -45,7 +45,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 ```
 ```
-pkg install wget
+pkg install wget -y
 ```
 ```
 pkg install imagemagick -y
